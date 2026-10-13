@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\003Projects\\Challenge-project-debugging-CSharp-main\\ChallengeProject\\Final\\Final.csproj": {}
+    "c:\\003Projects\\Challenge-project-debugging-CSharp-main\\Challenge-project-debugging-CSharp-main\\ChallengeProject\\Final\\Final.csproj": {}
   },
   "projects": {
-    "C:\\003Projects\\Challenge-project-debugging-CSharp-main\\ChallengeProject\\Final\\Final.csproj": {
+    "c:\\003Projects\\Challenge-project-debugging-CSharp-main\\Challenge-project-debugging-CSharp-main\\ChallengeProject\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\003Projects\\Challenge-project-debugging-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+        "projectUniqueName": "c:\\003Projects\\Challenge-project-debugging-CSharp-main\\Challenge-project-debugging-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
         "projectName": "Final",
-        "projectPath": "C:\\003Projects\\Challenge-project-debugging-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+        "projectPath": "c:\\003Projects\\Challenge-project-debugging-CSharp-main\\Challenge-project-debugging-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\003Projects\\Challenge-project-debugging-CSharp-main\\ChallengeProject\\Final\\obj\\",
+        "outputPath": "c:\\003Projects\\Challenge-project-debugging-CSharp-main\\Challenge-project-debugging-CSharp-main\\ChallengeProject\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config"
